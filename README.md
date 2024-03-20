@@ -6,11 +6,17 @@
 
 ### 关于
 
-[mR-71 重制版]()的制造文件（mR-71 Remastered version manufacturing files）
+mR-71 重制版的制造文件（mR-71 Remastered version manufacturing files）
 
 你第一次接触到本套文件可能是压缩包，内容可能滞后于仓库，制作前请访问[仓库地址](https://github.com/oldgerman/mR-71-RE)检查更新
 
 The first time you come into contact with this set of files, it may be a compressed package, and the content may lag behind the warehouse. Please visit the [github](https://github.com/oldgerman/mR-71-RE) to check for updates before making
+
+| ![mR-71-RE6_外壳SW：0](Images/mR-71-RE6_外壳SW：0.png) | ![mR-71-RE6_外壳SW：1](Images/mR-71-RE6_外壳SW：1.png) |
+| ------------------------------------------------------ | ------------------------------------------------------ |
+
+| ![PCB_mR-71-RE_1](Images/PCB_mR-71-RE_1.png) | ![PCB_mR-71-RE_2](Images/PCB_mR-71-RE_2.png) |
+| -------------------------------------------- | -------------------------------------------- |
 
 ### 组装指南
 
@@ -32,12 +38,4 @@ The first time you come into contact with this set of files, it may be a compres
     ├─link_parts                  // ## 连接模型
     └─single_parts                // ## 单个模型
 ```
-
-### 图片
-
-| ![PCB_mR-71-RE_1](Images/PCB_mR-71-RE_1.png) | ![PCB_mR-71-RE_2](Images/PCB_mR-71-RE_2.png) |
-| -------------------------------------------- | -------------------------------------------- |
-
-| ![mR-71-RE6_外壳SW：0](Images/mR-71-RE6_外壳SW：0.png) | ![mR-71-RE6_外壳SW：1](Images/mR-71-RE6_外壳SW：1.png) |
-| ------------------------------------------------------ | ------------------------------------------------------ |
 
