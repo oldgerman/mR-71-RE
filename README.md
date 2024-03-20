@@ -39,3 +39,6 @@ The first time you come into contact with this set of files, it may be a compres
     └─single_parts                // ## 单个模型
 ```
 
+### WARNING
+
+- 主板PCB打板厚度是1mm，否则外壳会装配不好
