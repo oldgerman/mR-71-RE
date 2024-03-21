@@ -66,6 +66,7 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 - 层数：4
 - 尺寸：7.34 x 7.12 cm
 - 软件：Altium 23.3.1
+- 版本：v1.1（2024-0321更新）
 
 ### PCB：开尔文焊盘电阻测试板
 
@@ -78,6 +79,7 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 - 层数：2
 - 尺寸：9.70 x 6.78 cm
 - 软件：JLCEDA-Pro
+- 版本：v1.0
 
 ### PCB：RG316转接板
 
@@ -90,6 +92,7 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 - 层数：2
 - 尺寸：3.04 x 0.6 cm
 - 软件：JLCEDA-Pro
+- 版本：没有版本
 
 ### 外壳
 
