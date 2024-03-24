@@ -19,9 +19,9 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 
 - PCB版本：第1版
 
-- 固件版本：v0.2
+- 固件版本：[v0.2](https://disk.yandex.ru/d/7r-Sy9olLtvGCg/FirmWare)
 
-  > 固件只提供hex格式，不需要注册
+  > 固件只提供hex格式，不提供源码，不需要注册
   >
   > v0.2相比v0.1，可保存5组不同探头的校准数据
 
@@ -47,7 +47,9 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 
 ## 关于重制版mR-71
 
-原版mR-71的PCB布线让人血压上升，尺寸还超长了，硬件来了一波重构，经过两个版本的迭代，这些改动可行，在此发布DIY指南
+原版mR-71的测量技术实现优雅，但硬件的设计得看起来像半成品（PCB长边尺寸超过10cm，布线让人血压上升）
+
+重制版mR-71硬件来了一波重构，反汇编修改固件适配了IPS全视角屏幕（原版屏幕是非全视角的TFT），经过两个版本的迭代，这些改动可行，在此发布DIY指南
 
 ### PCB：主板
 
@@ -56,8 +58,6 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 供电修改：运放由12V DCDC供电，改为低噪声LM27762正负5V供电
 
 增加一路AC耦合：DAC2_OS增加AC耦合
-
-原版屏幕是非全视角的TFT，此版屏幕可用IPS全视角，但需用我反汇编修改过的[固件](https://github.com/oldgerman/mR-71-RE/blob/master/Hex/)
 
 | ![PCB_mR-71-RE_1](Images/PCB_mR-71-RE_1.png) | ![PCB_mR-71-RE_2](Images/PCB_mR-71-RE_2.png) |
 | -------------------------------------------- | -------------------------------------------- |
@@ -210,7 +210,11 @@ BOM预览：
 
 ### 固件烧录
 
-从ST官网安装并打开[STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)软件，全程按住中键不放，接着按一次BOOT键，在软件的烧录方式里选择USB，点刷新一下，会识别到设备，点击连接，打开修改版固件，点击烧录，烧录完成后可松开中键，再按一次中键即可开机
+若使用非全视角的TFT屏幕，请用原版的[v0.2固件](https://disk.yandex.ru/d/7r-Sy9olLtvGCg/FirmWare)
+
+若使用全视角的IPS屏幕，请用我反汇编修改过的[v0.2固件](https://github.com/oldgerman/mR-71-RE/blob/master/Hex/)
+
+从ST官网安装并打开[STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)软件，全程按住正面的中键不放，接着按一次背面的BOOT键，在软件的烧录方式里选择USB，点刷新一下，会识别到设备，点击连接，打开修改版固件，点击烧录，烧录完成后可松开中键，再按一次中键即可开机
 
 （也可以通过SWD接口刷固件，就不罗嗦了）
 
