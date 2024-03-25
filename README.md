@@ -4,8 +4,8 @@
 
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-| ![2DE68A91BCAD357F75C52DBA0146FF5E](Images/mR-71-RE6：初号机成品图：3.png) |
-| ------------------------------------------------------------ |
+| ![](Images/mR-71-RE6：初号机成品图：3.png) |
+| ------------------------------------------ |
 
 ## 关于
 
@@ -16,9 +16,9 @@ mR-71 重制版的制造文件（mR-71 Remastered version manufacturing files）
 The first time you come into contact with this set of files, it may be a compressed package, and the content may lag behind the warehouse. Please visit the [github](https://github.com/oldgerman/mR-71-RE) to check for updates before making
 
 
-| ![CB518CF69B363FA6497740397A37B401](Images/mR-71-RE6：初号机成品图：1.png) | ![B5AB8CBA83B3570D97096338A3DA7BFC](Images/mR-71-RE6：初号机成品图：2.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![6867D49957E441EFD7F45064505A3631](Images/mR-71-RE6：初号机成品图：4.png) | ![808B3745B732B40741D571BB5621D597](Images/mR-71-RE6：初号机成品图：5.png) |
+| ![](Images/mR-71-RE6：初号机成品图：1.png) | ![](Images/mR-71-RE6：初号机成品图：2.png) |
+| ------------------------------------------ | ------------------------------------------ |
+| ![](Images/mR-71-RE6：初号机成品图：4.png) | ![](Images/mR-71-RE6：初号机成品图：5.png) |
 
 ### 路径下各个文件夹的说明
 
