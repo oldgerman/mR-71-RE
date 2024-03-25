@@ -45,9 +45,11 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 
 ## 关于重制版mR-71
 
-原版mR-71的测量技术实现优雅，但硬件的设计得看起来像半成品（PCB长边尺寸超过10cm，布线让人血压上升）
+原版mR-71的测量技术实现优雅，但硬件看起来像半成品，2层PCB长边尺寸超过10cm，布局和布线都有待优化
 
-重制版mR-71硬件来了一波重构，反汇编修改固件适配了IPS全视角屏幕（原版屏幕是非全视角的TFT），经过两个版本的迭代，这些改动可行，在此发布DIY指南
+重制版mR-71采用紧凑的设计，4层PCB，使用MCX同轴连接器，配有经久耐用的外壳，还支持IPS全视角屏幕
+
+经过两个版本的迭代，这些改动可行，在此发布DIY指南
 
 ### PCB：主板
 
@@ -57,19 +59,21 @@ height="31" border="0" hspace="0" vspace="0" alt="РадиоКОТ - попул�
 
 增加一路AC耦合：DAC2_OS增加AC耦合
 
-| ![PCB_mR-71-RE_1](Images/PCB_mR-71-RE_1.png) | ![PCB_mR-71-RE_2](Images/PCB_mR-71-RE_2.png) |
-| -------------------------------------------- | -------------------------------------------- |
+| ![PCB_mR-71-RE_1](Images/PCB_mR-71-RE_v1.1：1.png) | ![PCB_mR-71-RE_2](Images/PCB_mR-71-RE_v1.1：2.png) |
+| -------------------------------------------------- | -------------------------------------------------- |
 
 - 板厚：<span style="color:red;">1.0 mm</span>
 - 层数：4
 - 尺寸：7.34 x 7.12 cm
 - 焊盘总数：700
 - 软件：Altium 23.3.1
-- 版本：v1.1（2024-0321更新）
+- 版本：v1.1
 
 ### PCB：开尔文焊盘电阻测试板
 
 方便开尔文夹子测试低阻值采样电阻，可焊接校准的3R、1K电阻，该板是明显的拼版，通常是不能免费打样的
+
+这些电阻的焊盘设计来自ADI的文章：[Optimize High-Current Sensing Accuracy by Improving Pad Layout of Low-Value Shunt Resistors](https://www.analog.com/en/resources/analog-dialogue/articles/optimize-high-current-sensing-accuracy.html)
 
 | ![PCB_Kelvin_RES_1](Images/PCB_Kelvin_RES_1.png) | ![PCB_Kelvin_RES_2](Images/PCB_Kelvin_RES_2.png) |
 | ------------------------------------------------ | ------------------------------------------------ |
@@ -175,7 +179,7 @@ BOM预览：
 
 此钢网还拼了开尔文焊盘电阻测试板的钢网，方便焊接
 
-![](Images/mR-71_RE6_Stencil_10x10cm.png)
+![](Images/20240321_mR-71_RE6_Stencil_10x10cm.png)
 
 刷锡膏前，用多余的板垫在四周，防止钢网翘曲
 
