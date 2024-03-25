@@ -4,16 +4,10 @@
 
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-## 更新日志
+| ![2DE68A91BCAD357F75C52DBA0146FF5E](Images/mR-71-RE6：初号机成品图：3.png) |
+| ------------------------------------------------------------ |
 
-| 日期      | 概述                          | 更新了啥                 | 备注                                                         |
-| --------- | ----------------------------- | ------------------------ | ------------------------------------------------------------ |
-| 2024-0319 | 首次发布                      | 主机PCB版本：v1.0        | 组装教程、3D打印外壳也都上传了                               |
-| 2024-0321 | 更新主机PCB版本、钢网、原理图 | 主机PCB版本：v1.1        | 还添加了小于20%沉金面积版本，后缀Gold                        |
-| 2024-0322 | 更新电阻测试                  | 在组装指南的测试部分更新 | 三个频率下测量：1%的1mΩ到100mΩ 采样电阻、0.1%的1Ω到1MΩ薄膜电阻 |
-| 2024-0325 | 更新部分电容测试              | 在组装指南的测试部分更新 | 三个频率下测量：10pF到10uF的MLCC                             |
-
-### 关于
+## 关于
 
 mR-71 重制版的制造文件（mR-71 Remastered version manufacturing files）
 
@@ -21,11 +15,10 @@ mR-71 重制版的制造文件（mR-71 Remastered version manufacturing files）
 
 The first time you come into contact with this set of files, it may be a compressed package, and the content may lag behind the warehouse. Please visit the [github](https://github.com/oldgerman/mR-71-RE) to check for updates before making
 
-| ![mR-71-RE6_外壳SW：0](Images/mR-71-RE6_外壳SW：0.png) | ![mR-71-RE6_外壳SW：1](Images/mR-71-RE6_外壳SW：1.png) |
-| ------------------------------------------------------ | ------------------------------------------------------ |
 
-| ![PCB_mR-71-RE_1](Images/PCB_mR-71-RE_1.png) | ![PCB_mR-71-RE_2](Images/PCB_mR-71-RE_2.png) |
-| -------------------------------------------- | -------------------------------------------- |
+| ![CB518CF69B363FA6497740397A37B401](Images/mR-71-RE6：初号机成品图：1.png) | ![B5AB8CBA83B3570D97096338A3DA7BFC](Images/mR-71-RE6：初号机成品图：2.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![6867D49957E441EFD7F45064505A3631](Images/mR-71-RE6：初号机成品图：4.png) | ![808B3745B732B40741D571BB5621D597](Images/mR-71-RE6：初号机成品图：5.png) |
 
 ### 路径下各个文件夹的说明
 
@@ -54,8 +47,18 @@ The first time you come into contact with this set of files, it may be a compres
 - [mR-71-RE_组装指南](https://github.com/oldgerman/mR-71-RE/tree/master/mR-71-RE_组装指南.md)
 - [mR-71-RE_校准测试](https://github.com/oldgerman/mR-71-RE/tree/master/mR-71-RE_校准测试.md)
 
+### 更新日志
+
+| 日期      | 概述                          | 文件版本变动      | 备注                                                         |
+| --------- | ----------------------------- | ----------------- | ------------------------------------------------------------ |
+| 2024-0319 | 首次发布                      | 主机PCB版本：v1.0 | 组装教程、3D打印外壳也都上传了                               |
+| 2024-0321 | 更新主机PCB版本、钢网、原理图 | 主机PCB版本：v1.1 | 还添加了小于20%沉金面积版本，后缀Gold                        |
+| 2024-0322 | 更新电阻测试                  | 无                | 三个频率下测量：1%的1mΩ到100mΩ 采样电阻、0.1%的1Ω到1MΩ薄膜电阻 |
+| 2024-0325 | 更新电容测试，成品图          | 无                | 三个频率下测量：10pF到10uF的MLCC                             |
+
 ## 致谢
 
 - 感谢mR-71原作者[Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307)
 - 感谢一同玩mR-71的老友们
 - 感谢 JLC 和 JP 的板子
+
