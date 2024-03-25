@@ -27,10 +27,6 @@ The first time you come into contact with this set of files, it may be a compres
 | ![PCB_mR-71-RE_1](Images/PCB_mR-71-RE_1.png) | ![PCB_mR-71-RE_2](Images/PCB_mR-71-RE_2.png) |
 | -------------------------------------------- | -------------------------------------------- |
 
-### 组装指南
-
-[mR-71-RE组装指南.md](https://github.com/oldgerman/mR-71-RE/tree/master/mR-71-RE组装指南.md)
-
 ### 路径下各个文件夹的说明
 
 ```c
@@ -48,7 +44,18 @@ The first time you come into contact with this set of files, it may be a compres
     └─single_parts                // ## 单个模型
 ```
 
-### WARNING
+### 注意事项
 
 - 主板PCB打板厚度是1mm，否则外壳会装配不好
 - PCB、原理图、钢网、外壳文件后续可能会改动，以最新的日期时间为准！
+
+### 了解更多
+
+- [mR-71-RE_组装指南](https://github.com/oldgerman/mR-71-RE/tree/master/mR-71-RE_组装指南.md)
+- [mR-71-RE_校准测试](https://github.com/oldgerman/mR-71-RE/tree/master/mR-71-RE_校准测试.md)
+
+## 致谢
+
+- 感谢mR-71原作者[Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307)
+- 感谢一同玩mR-71的老友们
+- 感谢 JLC 和 JP 的板子
