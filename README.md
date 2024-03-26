@@ -1,8 +1,6 @@
 ## mR-71-RE
 
-![CC BY-SA 4.0][cc-by-sa-shield]
-
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+mR-71-RE 是基于 [Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307) 的作品[交流欧姆表 mR-71](https://radiokot.ru/artfiles/6673/) 修改的
 
 | ![](Images/mR-71-RE6：初号机成品图：3.png) |
 | ------------------------------------------ |
@@ -62,3 +60,8 @@ The first time you come into contact with this set of files, it may be a compres
 - 感谢一同玩mR-71的老友们
 - 感谢 JLC 和 JP 的板子
 
+## 许可协议
+
+[CC BY-NC-SA 4.0 DEED | 署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
+
+![Image text](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
