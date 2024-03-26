@@ -14,10 +14,9 @@ mR-71 重制版的制造文件（mR-71 Remastered version manufacturing files）
 The first time you come into contact with this set of files, it may be a compressed package, and the content may lag behind the warehouse. Please visit the [github](https://github.com/oldgerman/mR-71-RE) to check for updates before making
 
 
-| ![](Images/mR-71-RE6：初号机成品图：1.png)                   | ![](Images/mR-71-RE6：初号机成品图：2.png)                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![mR-71-RE6：1号2号机成品图：1](Images/mR-71-RE6：1号2号机成品图：2.png) | ![mR-71-RE6：1号2号机成品图：2](Images/mR-71-RE6：1号2号机成品图：1.png) |
-| ![](Images/mR-71-RE6：初号机成品图：5.png)                   | ![](Images/mR-71-RE6：初号机成品图：4.png)                   |
+| ![mR-71-RE6：1号2号机成品图：2](Images/mR-71-RE6：1号2号机成品图：1.png) | ![](Images/mR-71-RE6：初号机成品图：2.png) |
+| ------------------------------------------------------------ | ------------------------------------------ |
+| ![](Images/mR-71-RE6：初号机成品图：5.png)                   | ![](Images/mR-71-RE6：初号机成品图：4.png) |
 
 ### 路径下各个文件夹的说明
 
