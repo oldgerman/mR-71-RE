@@ -56,7 +56,7 @@ The first time you come into contact with this set of files, it may be a compres
 
 ## 致谢
 
-- 感谢mR-71原作者[Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307)
+- 感谢[mR-71](https://radiokot.ru/artfiles/6673/)原作者[Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307)
 - 感谢一同玩mR-71的老友们
 - 感谢 JLC 和 JP 的板子
 
