@@ -35,6 +35,12 @@ The first time you come into contact with this set of files, it may be a compres
     └─single_parts                // ## 单个模型
 ```
 
+### 快速下载某个文件
+
+如果你想单独下载某个文件，可以顺着文件路径一路点击到对应的文件，点击下载raw文件：
+
+![Gtihub网页版单独下载某个文件的方法](Images/Gtihub网页版单独下载某个文件的方法.png)
+
 ### 注意事项
 
 - 主板PCB打板厚度是1mm，否则外壳会装配不好
