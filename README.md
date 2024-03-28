@@ -48,8 +48,8 @@ The first time you come into contact with this set of files, it may be a compres
 
 ### 了解更多
 
-- [mR-71-RE_组装指南](https://github.com/oldgerman/mR-71-RE/tree/master/mR-71-RE_组装指南.md)
-- [mR-71-RE_校准测试](https://github.com/oldgerman/mR-71-RE/tree/master/mR-71-RE_校准测试.md)
+- [mR-71-RE组装指南](https://oldgerman.github.io/1d2ecca7/)
+- [mR-71-RE校准测试](https://oldgerman.github.io/b8304ba5/)
 
 ### 更新日志
 
@@ -72,3 +72,4 @@ The first time you come into contact with this set of files, it may be a compres
 [CC BY-NC-SA 4.0 DEED | 署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
 ![Image text](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+
