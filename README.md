@@ -2,7 +2,7 @@
 
 mR-71-RE 是基于 [Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307) 的作品[交流欧姆表 mR-71](https://radiokot.ru/artfiles/6673/) 修改的
 
-| ![](Images/mR-71-RE6：初号机成品图：3.png) |
+| ![](Images/mR-71-RE6：初号机成品图：3.jpg) |
 | ------------------------------------------ |
 
 ## 关于
@@ -14,9 +14,9 @@ mR-71 重制版的制造文件（mR-71 Remastered version manufacturing files）
 The first time you come into contact with this set of files, it may be a compressed package, and the content may lag behind the warehouse. Please visit the [github](https://github.com/oldgerman/mR-71-RE) to check for updates before making
 
 
-| ![mR-71-RE6：1号2号机成品图：2](Images/mR-71-RE6：1号2号机成品图：1.png) | ![](Images/mR-71-RE6：初号机成品图：2.png) |
+| ![mR-71-RE6：1号2号机成品图：2](Images/mR-71-RE6：1号2号机成品图：1.jpg) | ![](Images/mR-71-RE6：初号机成品图：2.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------ |
-| ![](Images/mR-71-RE6：初号机成品图：5.png)                   | ![](Images/mR-71-RE6：初号机成品图：4.png) |
+| ![](Images/mR-71-RE6：初号机成品图：5.jpg)                   | ![](Images/mR-71-RE6：初号机成品图：4.jpg) |
 
 ### 路径下各个文件夹的说明
 
