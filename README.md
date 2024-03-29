@@ -60,6 +60,7 @@ The first time you come into contact with this set of files, it may be a compres
 | 2024-0322 | 更新电阻测试                           | 无                | 三个频率下测量：1%的1mΩ到100mΩ 采样电阻、0.1%的1Ω到1MΩ薄膜电阻 |
 | 2024-0325 | 更新电容测试，成品图                   | 无                | 三个频率下测量：10pF到10uF的MLCC                             |
 | 2024-0327 | 添加mR-71-RE上板和下板单独的Gerber文件 | 无                | 详见mR-71-RE的[Gerber文件说明](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/mR-71-RE/README.md) |
+| 2024-0328 | 更新电感测试                           | 无                | 三个频率下测量：100nH到10uH的贴片电感                        |
 
 ## 致谢
 
