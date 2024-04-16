@@ -43,28 +43,29 @@ The first time you come into contact with this set of files, it may be a compres
 
 ### 注意事项
 
-- 主板PCB打板厚度是1mm，否则外壳会装配不好
+- 主板 PCB 打板厚度是 1mm，否则外壳会装配不好
 - PCB、原理图、钢网、外壳文件后续可能会改动，以最新的日期时间为准！
 
 ### 了解更多
 
-- [mR-71-RE组装指南](https://oldgerman.github.io/1d2ecca7/)（网页版），本仓库根目录有PDF版
-- [mR-71-RE校准测试](https://oldgerman.github.io/b8304ba5/)（网页版），本仓库根目录有PDF版
+- [mR-71-RE组装指南](https://oldgerman.github.io/1d2ecca7/)（网页版，可以使用浏览器翻译），本仓库根目录有 PDF 版
+- [mR-71-RE校准测试](https://oldgerman.github.io/b8304ba5/)（网页版，可以使用浏览器翻译），本仓库根目录有 PDF 版
 
 ### 更新日志
 
-| 日期      | 概述                                        | 制造文件版本变动  | 备注                                                         |
-| --------- | ------------------------------------------- | ----------------- | ------------------------------------------------------------ |
-| 2024-0319 | 首次发布                                    | 主机PCB版本：v1.0 | 组装教程、3D打印外壳也都上传了                               |
-| 2024-0321 | 更新主机PCB版本、钢网、原理图               | 主机PCB版本：v1.1 | 还添加了小于20%沉金面积版本，后缀Gold                        |
-| 2024-0325 | 更新成品图                                  | 无                | 无                                                           |
-| 2024-0327 | 添加mR-71-RE上板和下板单独的Gerber文件      | 无                | 详见mR-71-RE的[Gerber文件说明](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/mR-71-RE/README.md) |
-| 2024-0408 | 添加 组装指南 和 校准测试 网页版文章的PDF版 | 原理图、BOM       | 网页版文章的PDF版在仓库根目录下                              |
+| 日期      | 概述                                                 | 制造文件版本变动    | 备注                                                         |
+| --------- | ---------------------------------------------------- | ------------------- | ------------------------------------------------------------ |
+| 2024-0319 | 首次发布                                             | 主机 PCB 版本：v1.0 | 组装教程、3D 打印外壳也都上传了                              |
+| 2024-0321 | 更新主机 PCB 版本、钢网、原理图                      | 主机PCB版本：v1.1   | 还添加了小于 20% 沉金面积版本，后缀 Gold                     |
+| 2024-0325 | 更新成品图                                           | 无                  | 无                                                           |
+| 2024-0327 | 添加 mR-71-RE 上板和下板单独的 Gerber 文件           | 无                  | 详见 [Gerber文件说明：mR-71-RE](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/mR-71-RE/README.md) |
+| 2024-0408 | 添加 组装指南 和 校准测试 网页版文章的 PDF 版        | 原理图、BOM         | 网页版文章的PDF版在仓库根目录下                              |
+| 2024-0416 | 添加 Kelvin_RES 焊盘 2512 和 1206 单独的 Gerber 文件 | 无                  | 详见 [Gerber文件说明：Kelvin_RES](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/Kelvin_RES/README.md) |
 
 ## 致谢
 
-- 感谢[mR-71](https://radiokot.ru/artfiles/6673/)原作者[Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307)
-- 感谢一同玩mR-71的老友们
+- 感谢 [mR-71](https://radiokot.ru/artfiles/6673/) 原作者 [Andrey_B](https://www.radiokot.ru/forum/memberlist.php?mode=viewprofile&u=21307)
+- 感谢一同玩 mR-71 的老友们
 - 感谢 JLC 和 JP 的板子
 
 ## 许可协议
