@@ -62,6 +62,7 @@ The first time you come into contact with this set of files, it may be a compres
 | 2024-0408 | 添加 组装指南 和 校准测试 网页版文章的 PDF 版        | 原理图、BOM         | 网页版文章的PDF版在仓库根目录下                              |
 | 2024-0416 | 添加 Kelvin_RES 焊盘 2512 和 1206 单独的 Gerber 文件 | 无                  | 详见 [Gerber文件说明：Kelvin_RES](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/Kelvin_RES/README.md) |
 | 2024-0418 | 修正 BOM 表 R31 R32 封装，从 0402 改为 0603          | 原理图、BOM         | 物料种类未变                                                 |
+| 2024-0420 | 修正 BOM 表 C22 厂家型号为 CL05B103KB5NNNC           | BOM                 | 物料种类变化                                                 |
 
 ## 致谢
 
