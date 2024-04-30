@@ -63,7 +63,7 @@ The first time you come into contact with this set of files, it may be a compres
 | 2024-0416 | 添加 Kelvin_RES 焊盘 2512 和 1206 单独的 Gerber 文件         | 无                  | 详见 [Gerber文件说明：Kelvin_RES](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/Kelvin_RES/README.md) |
 | 2024-0418 | 修正 BOM 表 R31 R32 封装，从 0402 改为 0603                  | 原理图、BOM         | 物料种类未变                                                 |
 | 2024-0420 | 修正 BOM 表 C22 厂家型号为 CL05B103KB5NNNC                   | BOM                 | 物料种类变化                                                 |
-| 2024-0430 | 重命名交互式BOM文件 20240420_MR-71_RE6_BOM.html 为 20240430_MR-71_RE6_BOM.html | ibom                | 仅重命名，防止不必要的误解（以为BOM更新了但ibom还是旧版本对不上号） |
+| 2024-0430 | 重命名交互式BOM文件 20240408_MR-71_RE6_BOM.html 为 20240420_MR-71_RE6_BOM.html | ibom                | 仅重命名，防止不必要的误解（以为BOM更新了但ibom还是旧版本对不上号） |
 
 ## 致谢
 
