@@ -53,16 +53,17 @@ The first time you come into contact with this set of files, it may be a compres
 
 ### 更新日志
 
-| 日期      | 概述                                                 | 制造文件变动        | 备注                                                         |
-| --------- | ---------------------------------------------------- | ------------------- | ------------------------------------------------------------ |
-| 2024-0319 | 首次发布                                             | 主机 PCB 版本：v1.0 | 组装教程、3D 打印外壳也都上传了                              |
-| 2024-0321 | 更新主机 PCB 版本、钢网、原理图                      | 主机PCB版本：v1.1   | 还添加了小于 20% 沉金面积版本，后缀 Gold                     |
-| 2024-0325 | 更新成品图                                           | 无                  | 无                                                           |
-| 2024-0327 | 添加 mR-71-RE 上板和下板单独的 Gerber 文件           | 无                  | 详见 [Gerber文件说明：mR-71-RE](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/mR-71-RE/README.md) |
-| 2024-0408 | 添加 组装指南 和 校准测试 网页版文章的 PDF 版        | 原理图、BOM         | 网页版文章的PDF版在仓库根目录下                              |
-| 2024-0416 | 添加 Kelvin_RES 焊盘 2512 和 1206 单独的 Gerber 文件 | 无                  | 详见 [Gerber文件说明：Kelvin_RES](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/Kelvin_RES/README.md) |
-| 2024-0418 | 修正 BOM 表 R31 R32 封装，从 0402 改为 0603          | 原理图、BOM         | 物料种类未变                                                 |
-| 2024-0420 | 修正 BOM 表 C22 厂家型号为 CL05B103KB5NNNC           | BOM                 | 物料种类变化                                                 |
+| 日期      | 概述                                                         | 制造文件变动        | 备注                                                         |
+| --------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| 2024-0319 | 首次发布                                                     | 主机 PCB 版本：v1.0 | 组装教程、3D 打印外壳也都上传了                              |
+| 2024-0321 | 更新主机 PCB 版本、钢网、原理图                              | 主机PCB版本：v1.1   | 还添加了小于 20% 沉金面积版本，后缀 Gold                     |
+| 2024-0325 | 更新成品图                                                   | 无                  | 无                                                           |
+| 2024-0327 | 添加 mR-71-RE 上板和下板单独的 Gerber 文件                   | 无                  | 详见 [Gerber文件说明：mR-71-RE](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/mR-71-RE/README.md) |
+| 2024-0408 | 添加 组装指南 和 校准测试 网页版文章的 PDF 版                | 原理图、BOM、ibom   | 网页版文章的PDF版在仓库根目录下                              |
+| 2024-0416 | 添加 Kelvin_RES 焊盘 2512 和 1206 单独的 Gerber 文件         | 无                  | 详见 [Gerber文件说明：Kelvin_RES](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/Kelvin_RES/README.md) |
+| 2024-0418 | 修正 BOM 表 R31 R32 封装，从 0402 改为 0603                  | 原理图、BOM         | 物料种类未变                                                 |
+| 2024-0420 | 修正 BOM 表 C22 厂家型号为 CL05B103KB5NNNC                   | BOM                 | 物料种类变化                                                 |
+| 2024-0430 | 重命名交互式BOM文件 20240420_MR-71_RE6_BOM.html 为 20240430_MR-71_RE6_BOM.html | ibom                | 仅重命名，防止不必要的误解（以为BOM更新了但ibom还是旧版本对不上号） |
 
 ## 致谢
 
