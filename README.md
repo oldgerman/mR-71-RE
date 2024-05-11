@@ -30,10 +30,10 @@ The first time you come into contact with this set of files, it may be a compres
 ├─Hex                             // # 固件: 反汇编修改v0.2固件，以适配IPS屏幕
 ├─Images                          // # 图片
 ├─Schematic                       // # 原理图
-├─STL                             // # 3D打印模型
-│  ├─link_parts                   // ## 连接模型
-│  └─single_parts                 // ## 单个模型
-└─SMT                             // # SMT文件
+├─SMT                             // # SMT文件
+└─STL                             // # 3D打印模型
+    ├─link_parts                  // ## 连接模型
+    └─single_parts                // ## 单个模型
 ```
 
 ### 快速下载某个文件
