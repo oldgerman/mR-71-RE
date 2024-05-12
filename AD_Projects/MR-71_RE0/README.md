@@ -4,7 +4,7 @@
 
 此文件夹下是我用 Altium 23.3.1 重绘的 原版 mR-71 工程，原理图遵循原版的风格，PCB按照原版的走线方式布通，但线宽过孔等未优化，**仅供参考，不保证做出来可以正常工作**，如果你想设计 原版 mR-71 的衍生版本，不如从这套源文件开始
 
-![SCH](Images/SCH.png)
+![SCH](Images/Schematic.png)
 
 ![PCB_1](Images/PCB_1.png)
 
