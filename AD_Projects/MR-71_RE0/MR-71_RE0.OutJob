@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\ODG-PROJECT\俄罗斯无线猫论坛作品\MR-71（交流欧姆表）\AD_Project\MR-71_RE0\.PDF
+OutputFilePath2=D:\ODG-PROJECT\俄罗斯无线猫论坛作品\MR-71（交流欧姆表）\mR-71-RE\AD_Projects\MR-71_RE0\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\ODG-PROJECT\俄罗斯无线猫论坛作品\MR-71（交流欧姆表）\AD_Project\MR-71_RE0\
+OutputBasePath2=D:\ODG-PROJECT\俄罗斯无线猫论坛作品\MR-71（交流欧姆表）\mR-71-RE\AD_Projects\MR-71_RE0\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\ODG-PROJECT\俄罗斯无线猫论坛作品\MR-71（交流欧姆表）\AD_Project\MR-71_RE0\.PDF
+RelativeOutputPath2=D:\ODG-PROJECT\俄罗斯无线猫论坛作品\MR-71（交流欧姆表）\mR-71-RE\AD_Projects\MR-71_RE0\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
