@@ -21,6 +21,8 @@ The first time you come into contact with this set of files, it may be a compres
 ### 路径下各个文件夹的说明
 
 ```c
+├─AD_Projects                     // # PCB的源文件
+│  └─MR-71_RE0                    // # 原版mR-71重绘工程
 ├─BOM                             // # PCB的物料清单
 ├─Gerber                          // # 打板文件
 │  ├─Kelvin_Clip_RG316_To_PCB     // ## 【2层，板厚1.6mm】RG316转接板
@@ -66,6 +68,7 @@ The first time you come into contact with this set of files, it may be a compres
 | 2024-0420 | 修正 BOM 表 C22 厂家型号为 CL05B103KB5NNNC                   | BOM                 | 物料种类变化                                                 |
 | 2024-0430 | 重命名交互式 BOM 文件 20240408_MR-71_RE6_BOM.html 为 20240420_MR-71_RE6_BOM.html | ibom                | 仅重命名，防止不必要的误解（以为 BOM 更新了但 ibom 还是旧版本对不上号） |
 | 2024-0511 | 添加 mR-71-RE 的 SMT 坐标文件                                | 坐标文件            | 不同 PCB 需使用对应的坐标文件，在 [SMT](https://github.com/oldgerman/mR-71-RE/blob/master/SMT) 文件夹 |
+| 2024-0512 | 添加 AD 重绘的原版 mR-71 工程                                | 无                  | 详见 [源文件说明：mR-71-RE0](https://github.com/oldgerman/mR-71-RE/blob/master/AD_Projects/mR-71-RE0/README.md) |
 
 ## 致谢
 
