@@ -41,3 +41,18 @@ AAAABBCC-DDEE_Kelvin_RES_v1.0.zip
 | 正面                                                         | 反面                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Kelvin_RES_2512_v1.0_Top](Images/Kelvin_RES_2512_v1.0_Top.png) | ![Kelvin_RES_2512_v1.0_Bottom](Images/Kelvin_RES_2512_v1.0_Bottom.png) |
+
+#### Kelvin_RES_Unit_1206_v1.0
+
+| 正面                                                         | 反面                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Kelvin_RES_Unit_1206_v1.0_Top](Images/Kelvin_RES_Unit_1206_v1.0_Top.png) | ![Kelvin_RES_Unit_1206_v1.0_Bottom](Images/Kelvin_RES_Unit_1206_v1.0_Bottom.png) |
+
+#### Kelvin_RES_Unit_2512_v1.0
+
+| 正面                                                         | 反面                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Kelvin_RES_Unit_2512_v1.0_Top](Images/Kelvin_RES_Unit_2512_v1.0_Top.png) | ![Kelvin_RES_Unit_2512_v1.0_Bottom](Images/Kelvin_RES_Unit_2512_v1.0_Bottom.png) |
+
+
+

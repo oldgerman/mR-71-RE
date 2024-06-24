@@ -69,6 +69,7 @@ The first time you come into contact with this set of files, it may be a compres
 | 2024-0430 | 重命名交互式 BOM 文件 20240408_MR-71_RE6_BOM.html 为 20240420_MR-71_RE6_BOM.html | ibom                | 仅重命名，防止不必要的误解（以为 BOM 更新了但 ibom 还是旧版本对不上号） |
 | 2024-0511 | 添加 mR-71-RE 的 SMT 坐标文件                                | 坐标文件            | 不同 PCB 需使用对应的坐标文件，在 [SMT](https://github.com/oldgerman/mR-71-RE/blob/master/SMT) 文件夹 |
 | 2024-0512 | 添加 AD 重绘的原版 mR-71 工程                                | 无                  | 详见 [源文件说明：mR-71-RE0](https://github.com/oldgerman/mR-71-RE/blob/master/AD_Projects/MR-71_RE0/README.md) |
+| 2024-0624 | 添加 Kelvin_RES 焊盘 2512 和 1206 单元的 Gerber 文件         | 无                  | 详见 [Gerber文件说明：Kelvin_RES](https://github.com/oldgerman/mR-71-RE/blob/master/Gerber/Kelvin_RES/README.md) |
 
 ## 致谢
 
